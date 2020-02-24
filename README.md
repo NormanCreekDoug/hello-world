@@ -1,3 +1,5 @@
 # hello-world
-my first repository
+My first repository. 
 This is my first edit to this file in a branch.
+
+My second edit.
